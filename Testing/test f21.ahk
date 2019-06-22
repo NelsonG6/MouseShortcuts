@@ -2,5 +2,5 @@ SendMode, Input
 
 Exit
 
-A up::
+Joy2::
 	Send {F24}
