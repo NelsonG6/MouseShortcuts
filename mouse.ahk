@@ -14,10 +14,9 @@ global circledock3 = false
 #Include Functions\F14 Thumb far.ahk
 #Include Functions\F15 Index near.ahk
 #Include Functions\F16 Index far.ahk
-#Include Functions\F17.ahk
-#Include Functions\F18.ahk
-#Include Functions\F19.ahk
-#Include Functions\F20.ahk
+#Include Functions\F17 Mousewheel push.ahk
+#Include Functions\F18 Mousewheel left.ahk
+#Include Functions\F19 Mousewheel right.ahk
 #Include Functions\Mouse button right.ahk
 #Include Functions\Mouse button left.ahk
 #Include Functions\Mousewheel down.ahk
