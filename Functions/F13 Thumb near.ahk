@@ -4,7 +4,7 @@ $F13::
 	if !toggle
 		; Win + tab
 		; Alternate alt+tab menu
-		Send ^!{tab}
+		Send {LWinDown}{tab}{LWinUp}
 	else if toggle
 		; Enter
 		; Just enter
